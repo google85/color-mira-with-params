@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
     } else {
         min = 16;
         max = 21;
-        printf("Se poate executa si cu parametri, de ex: %s%s", "\n", "  ./test01 16 21");
+        printf("Se poate executa si cu parametri, de ex: %s%s", "\n", "  ./mira-color-with-params 16 21");
     }
     printf("%s", "\n");
     // apel functie
